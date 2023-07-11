@@ -7,6 +7,6 @@ import io.quarkus.runtime.annotations.ConfigRoot;
 public class HorreumBuildTimeConfig {
 
     @ConfigItem
-    public DevServicesConfig devservices;
+    public HorreumDevServicesConfig devservices;
 
 }
